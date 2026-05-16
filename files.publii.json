@@ -182,7 +182,7 @@
     {
         "path": "/authors/william-enckhausen/index.html",
         "type": "file",
-        "md5": "7f186d50e5774068b38f011ae6447d3b"
+        "md5": "c4b043035cd22147c57b65689543f1ee"
     },
     {
         "path": "collective-evolution",
@@ -247,12 +247,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "abaa813d1bc556c2a900d5db2d85d8d4"
+        "md5": "bba075c1c87c0147444dba5e1e0aa451"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "c0ace8cc9252f4f2bba8d6a7a3627688"
+        "md5": "911eb16e4890341f5959a848bcf20a01"
     },
     {
         "path": "form-and-formless",
@@ -292,12 +292,12 @@
     {
         "path": "/hitler-killer-and-the-lizard-worshippers/index.html",
         "type": "file",
-        "md5": "f859c0bc540b7798b4229df549dc6f35"
+        "md5": "77b5eeb6bcb6f74c44e7b6f601202750"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "89f7b2d31922b4e9737bc2ce1b33aace"
+        "md5": "8d46876762a42bd4b3f07c0bc60a8169"
     },
     {
         "path": "joy-and-trauma",
@@ -1377,7 +1377,7 @@
     {
         "path": "/quetzal-bill-to-bonzai-baba/index.html",
         "type": "file",
-        "md5": "46c4995e78bdbb69e62c5144d5aca873"
+        "md5": "4f51755e9d6c873051ac928e268ad60d"
     },
     {
         "path": "recreating",
@@ -1417,7 +1417,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "ff0c139e91bdea70a931db46b5032216"
+        "md5": "023807acc0d62c9d16711a98a6108322"
     },
     {
         "path": "sitemap.xsl",
@@ -1432,7 +1432,7 @@
     {
         "path": "/stories-of-quetzal/index.html",
         "type": "file",
-        "md5": "b893e7b94ed542c97fc66d8b29de239d"
+        "md5": "136973a85ef0b28b88abee7f12f01305"
     },
     {
         "path": "tags",
@@ -1622,7 +1622,17 @@
     {
         "path": "/william-enckhausen/index.html",
         "type": "file",
-        "md5": "c79689f1668e54fa089ca2e499c9e91a"
+        "md5": "22c013c0815e80fd6caf429077fe6242"
+    },
+    {
+        "path": "williamquetzalorg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/williamquetzalorg/index.html",
+        "type": "file",
+        "md5": "bd0d8145f313a804e2a6d6807ee9e3e7"
     },
     {
         "path": "works",

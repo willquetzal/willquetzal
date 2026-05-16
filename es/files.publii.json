@@ -82,7 +82,7 @@
     {
         "path": "/authors/willliam-enckhausen/index.html",
         "type": "file",
-        "md5": "53c01485fc47be9f7020de8712532975"
+        "md5": "ab1717415fbf2c936baa521f8ea325fd"
     },
     {
         "path": "ayunar-con-las-fases-de-la-luna",
@@ -242,7 +242,7 @@
     {
         "path": "/el-vuelo-del-quetzal/index.html",
         "type": "file",
-        "md5": "f171f88e95d7ffbf8c3a2f07350a8e64"
+        "md5": "0fba6ea73c58a921487d10c0d8cf93f0"
     },
     {
         "path": "entre-dos-diablos",
@@ -257,12 +257,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "1bee06c1144daaaeb8ee6a8ddb8ce7a0"
+        "md5": "1ad19d39bf7e7b0214386ce31e63f753"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "6defd505537caf4eaa3d17eaff344294"
+        "md5": "1623eb2825aeef6ce91538b20ba8a538"
     },
     {
         "path": "forma-y-sin-forma",
@@ -292,12 +292,12 @@
     {
         "path": "/hitler-killer-y-los-adoradores-del-lagarto/index.html",
         "type": "file",
-        "md5": "4c0993970d81b44d945724633ef7029b"
+        "md5": "1c57659cf827cdac28d35375b88291b3"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "8bc267ed13ceaf98634a0c67b842934c"
+        "md5": "1fedae12d00e0656522b2c8f2f046bbf"
     },
     {
         "path": "la-alegria-y-el-trauma",
@@ -1157,7 +1157,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "99b16e78080d821d6a7a4c9d633917d7"
+        "md5": "ad5ce95526151316ae08e57a67caedf4"
     },
     {
         "path": "sitemap.xsl",
@@ -1253,5 +1253,15 @@
         "path": "/una-fotografia-sin-marco/index.html",
         "type": "file",
         "md5": "703390f25d7c03f7f2abf5390ffff31e"
+    },
+    {
+        "path": "williamquetzalorg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/williamquetzalorg/index.html",
+        "type": "file",
+        "md5": "0fe6be2e2474a08ddbf2b8c425d3b5c5"
     }
 ]
