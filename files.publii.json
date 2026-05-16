@@ -1,0 +1,1637 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "f073d50dfdbb0dac8506498a3b7d2126"
+    },
+    {
+        "path": "a-bridge-to-the-infinite",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a-bridge-to-the-infinite/index.html",
+        "type": "file",
+        "md5": "c4fb21807ab750ec0c059e40462069b4"
+    },
+    {
+        "path": "a-frameless-photo",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a-frameless-photo/index.html",
+        "type": "file",
+        "md5": "702fe9c1350f7bcedaab78e39a4b799b"
+    },
+    {
+        "path": "a-greeting",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a-greeting/index.html",
+        "type": "file",
+        "md5": "43c20a4c52b6e0c8258ee9f0ba3b91e3"
+    },
+    {
+        "path": "a-marriage-of-sense-to-soul",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a-marriage-of-sense-to-soul/index.html",
+        "type": "file",
+        "md5": "0b04ccb0d25e041b283a2b4a4c09df08"
+    },
+    {
+        "path": "a-requiem",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a-requiem/index.html",
+        "type": "file",
+        "md5": "0e088c62da81b281e357a714ca2bcf1c"
+    },
+    {
+        "path": "adobe-construction",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/adobe-construction/index.html",
+        "type": "file",
+        "md5": "27ddcf54acece712ed0824547e9e06c5"
+    },
+    {
+        "path": "all-of-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/all-of-us/index.html",
+        "type": "file",
+        "md5": "30ec42a99c158892a30b7af0c7e2f9de"
+    },
+    {
+        "path": "anahata-introduction-and-chapter-1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/anahata-introduction-and-chapter-1/index.html",
+        "type": "file",
+        "md5": "7c4028a6d9306d610b343e59aaec5b39"
+    },
+    {
+        "path": "apparitions",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/apparitions/index.html",
+        "type": "file",
+        "md5": "93c4c552d385dfface1ed49974ca568f"
+    },
+    {
+        "path": "asana-ethics-and-evolution",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/asana-ethics-and-evolution/index.html",
+        "type": "file",
+        "md5": "a08de3caba27f6173652b4590913d3a8"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/william-enckhausen",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/william-enckhausen/index.html",
+        "type": "file",
+        "md5": "7f186d50e5774068b38f011ae6447d3b"
+    },
+    {
+        "path": "collective-evolution",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/collective-evolution/index.html",
+        "type": "file",
+        "md5": "975dab9280340267d7ba1bbe00a9ee2f"
+    },
+    {
+        "path": "contactfollow",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/contactfollow/index.html",
+        "type": "file",
+        "md5": "4b8fe060ab17033f44f08ffcb064236c"
+    },
+    {
+        "path": "cool-kulkan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/cool-kulkan/index.html",
+        "type": "file",
+        "md5": "1d75797dcb8d251102721f6eff0ca5bc"
+    },
+    {
+        "path": "der-biermiester-des-reiches",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/der-biermiester-des-reiches/index.html",
+        "type": "file",
+        "md5": "e2a9081188cc9965d81c3b4ce73f459f"
+    },
+    {
+        "path": "discernment-and-depression",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discernment-and-depression/index.html",
+        "type": "file",
+        "md5": "b95145a1f6ffda6872b7cf6551ee6d8a"
+    },
+    {
+        "path": "dogma-dissonance-and-dissent-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dogma-dissonance-and-dissent-2/index.html",
+        "type": "file",
+        "md5": "e71440c8f8e48a90b38ae9f7b8466e3c"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "abaa813d1bc556c2a900d5db2d85d8d4"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "c0ace8cc9252f4f2bba8d6a7a3627688"
+    },
+    {
+        "path": "form-and-formless",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/form-and-formless/index.html",
+        "type": "file",
+        "md5": "92c9601558ad1fbd1d06a84e254efe03"
+    },
+    {
+        "path": "from-quetzalcoatl-to-cassanova",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/from-quetzalcoatl-to-cassanova/index.html",
+        "type": "file",
+        "md5": "af21def64922ce09b5052d7597d20ebc"
+    },
+    {
+        "path": "gymnopedia-on-yerba-mate",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/gymnopedia-on-yerba-mate/index.html",
+        "type": "file",
+        "md5": "597a0f2863e4f14a33747053257840db"
+    },
+    {
+        "path": "hitler-killer-and-the-lizard-worshippers",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hitler-killer-and-the-lizard-worshippers/index.html",
+        "type": "file",
+        "md5": "f859c0bc540b7798b4229df549dc6f35"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "89f7b2d31922b4e9737bc2ce1b33aace"
+    },
+    {
+        "path": "joy-and-trauma",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/joy-and-trauma/index.html",
+        "type": "file",
+        "md5": "24cafcfecf060d6b0e5f2d4fb25a0b42"
+    },
+    {
+        "path": "light-and-dark-tantra",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/light-and-dark-tantra/index.html",
+        "type": "file",
+        "md5": "d9ea4c8b1690fbbca6070b91d378f90b"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/asana.jpg",
+        "type": "file",
+        "md5": "a2a0b6e63b180a1b17747197a04b3b84"
+    },
+    {
+        "path": "/media/posts/10/hello-2.jpg",
+        "type": "file",
+        "md5": "4354e584e04332acf461e3391d66542c"
+    },
+    {
+        "path": "media/posts/10/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/responsive/asana-2xl.jpg",
+        "type": "file",
+        "md5": "705810490a3aa19250229aff0c3d7b51"
+    },
+    {
+        "path": "/media/posts/10/responsive/asana-lg.jpg",
+        "type": "file",
+        "md5": "705810490a3aa19250229aff0c3d7b51"
+    },
+    {
+        "path": "/media/posts/10/responsive/asana-md.jpg",
+        "type": "file",
+        "md5": "705810490a3aa19250229aff0c3d7b51"
+    },
+    {
+        "path": "/media/posts/10/responsive/asana-sm.jpg",
+        "type": "file",
+        "md5": "705810490a3aa19250229aff0c3d7b51"
+    },
+    {
+        "path": "/media/posts/10/responsive/asana-xl.jpg",
+        "type": "file",
+        "md5": "705810490a3aa19250229aff0c3d7b51"
+    },
+    {
+        "path": "/media/posts/10/responsive/asana-xs.jpg",
+        "type": "file",
+        "md5": "705810490a3aa19250229aff0c3d7b51"
+    },
+    {
+        "path": "/media/posts/10/responsive/hello-2-2xl.jpg",
+        "type": "file",
+        "md5": "8614aecc410bec8ae6426a7cf56c3680"
+    },
+    {
+        "path": "/media/posts/10/responsive/hello-2-lg.jpg",
+        "type": "file",
+        "md5": "8614aecc410bec8ae6426a7cf56c3680"
+    },
+    {
+        "path": "/media/posts/10/responsive/hello-2-md.jpg",
+        "type": "file",
+        "md5": "8614aecc410bec8ae6426a7cf56c3680"
+    },
+    {
+        "path": "/media/posts/10/responsive/hello-2-sm.jpg",
+        "type": "file",
+        "md5": "8614aecc410bec8ae6426a7cf56c3680"
+    },
+    {
+        "path": "/media/posts/10/responsive/hello-2-xl.jpg",
+        "type": "file",
+        "md5": "8614aecc410bec8ae6426a7cf56c3680"
+    },
+    {
+        "path": "/media/posts/10/responsive/hello-2-xs.jpg",
+        "type": "file",
+        "md5": "1e6d5c85c491a37a158f83dd8c0a716a"
+    },
+    {
+        "path": "media/posts/11",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/capitol.jpg",
+        "type": "file",
+        "md5": "fe6618d11fa3c9091875c79b6bcd5cbb"
+    },
+    {
+        "path": "media/posts/11/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/responsive/capitol-2xl.jpg",
+        "type": "file",
+        "md5": "001617759cd0a0e1a224d7c21159d292"
+    },
+    {
+        "path": "/media/posts/11/responsive/capitol-lg.jpg",
+        "type": "file",
+        "md5": "001617759cd0a0e1a224d7c21159d292"
+    },
+    {
+        "path": "/media/posts/11/responsive/capitol-md.jpg",
+        "type": "file",
+        "md5": "001617759cd0a0e1a224d7c21159d292"
+    },
+    {
+        "path": "/media/posts/11/responsive/capitol-sm.jpg",
+        "type": "file",
+        "md5": "001617759cd0a0e1a224d7c21159d292"
+    },
+    {
+        "path": "/media/posts/11/responsive/capitol-xl.jpg",
+        "type": "file",
+        "md5": "001617759cd0a0e1a224d7c21159d292"
+    },
+    {
+        "path": "/media/posts/11/responsive/capitol-xs.jpg",
+        "type": "file",
+        "md5": "001617759cd0a0e1a224d7c21159d292"
+    },
+    {
+        "path": "media/posts/12",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/12/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/responsive/zapluna-2xl.jpg",
+        "type": "file",
+        "md5": "7973cd5579ae7359e66030f0c1b176fe"
+    },
+    {
+        "path": "/media/posts/12/responsive/zapluna-lg.jpg",
+        "type": "file",
+        "md5": "7973cd5579ae7359e66030f0c1b176fe"
+    },
+    {
+        "path": "/media/posts/12/responsive/zapluna-md.jpg",
+        "type": "file",
+        "md5": "7973cd5579ae7359e66030f0c1b176fe"
+    },
+    {
+        "path": "/media/posts/12/responsive/zapluna-sm.jpg",
+        "type": "file",
+        "md5": "7973cd5579ae7359e66030f0c1b176fe"
+    },
+    {
+        "path": "/media/posts/12/responsive/zapluna-xl.jpg",
+        "type": "file",
+        "md5": "7973cd5579ae7359e66030f0c1b176fe"
+    },
+    {
+        "path": "/media/posts/12/responsive/zapluna-xs.jpg",
+        "type": "file",
+        "md5": "7973cd5579ae7359e66030f0c1b176fe"
+    },
+    {
+        "path": "/media/posts/12/zapluna.jpg",
+        "type": "file",
+        "md5": "df1036122056f7ecab4c417a56acdc05"
+    },
+    {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/13/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/responsive/venados-2xl.jpg",
+        "type": "file",
+        "md5": "901294a2f4db831cd8969c135366fbd7"
+    },
+    {
+        "path": "/media/posts/13/responsive/venados-lg.jpg",
+        "type": "file",
+        "md5": "901294a2f4db831cd8969c135366fbd7"
+    },
+    {
+        "path": "/media/posts/13/responsive/venados-md.jpg",
+        "type": "file",
+        "md5": "901294a2f4db831cd8969c135366fbd7"
+    },
+    {
+        "path": "/media/posts/13/responsive/venados-sm.jpg",
+        "type": "file",
+        "md5": "901294a2f4db831cd8969c135366fbd7"
+    },
+    {
+        "path": "/media/posts/13/responsive/venados-xl.jpg",
+        "type": "file",
+        "md5": "901294a2f4db831cd8969c135366fbd7"
+    },
+    {
+        "path": "/media/posts/13/responsive/venados-xs.jpg",
+        "type": "file",
+        "md5": "901294a2f4db831cd8969c135366fbd7"
+    },
+    {
+        "path": "/media/posts/13/venados.jpg",
+        "type": "file",
+        "md5": "11bfdb8a7ffb2633d8b7ba70821684c6"
+    },
+    {
+        "path": "media/posts/15",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/padmasambhava.jpg",
+        "type": "file",
+        "md5": "2e6202a0db180e99089f31077f76b826"
+    },
+    {
+        "path": "media/posts/15/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/responsive/padmasambhava-2xl.jpg",
+        "type": "file",
+        "md5": "597445b7dca08cd97f3e78ba7e02f5bf"
+    },
+    {
+        "path": "/media/posts/15/responsive/padmasambhava-lg.jpg",
+        "type": "file",
+        "md5": "597445b7dca08cd97f3e78ba7e02f5bf"
+    },
+    {
+        "path": "/media/posts/15/responsive/padmasambhava-md.jpg",
+        "type": "file",
+        "md5": "597445b7dca08cd97f3e78ba7e02f5bf"
+    },
+    {
+        "path": "/media/posts/15/responsive/padmasambhava-sm.jpg",
+        "type": "file",
+        "md5": "597445b7dca08cd97f3e78ba7e02f5bf"
+    },
+    {
+        "path": "/media/posts/15/responsive/padmasambhava-xl.jpg",
+        "type": "file",
+        "md5": "597445b7dca08cd97f3e78ba7e02f5bf"
+    },
+    {
+        "path": "/media/posts/15/responsive/padmasambhava-xs.jpg",
+        "type": "file",
+        "md5": "597445b7dca08cd97f3e78ba7e02f5bf"
+    },
+    {
+        "path": "/media/posts/15/responsive/rolex-2xl.jpg",
+        "type": "file",
+        "md5": "fdbff61b8b20f67c9823e4319a6a90c3"
+    },
+    {
+        "path": "/media/posts/15/responsive/rolex-lg.jpg",
+        "type": "file",
+        "md5": "fdbff61b8b20f67c9823e4319a6a90c3"
+    },
+    {
+        "path": "/media/posts/15/responsive/rolex-md.jpg",
+        "type": "file",
+        "md5": "fdbff61b8b20f67c9823e4319a6a90c3"
+    },
+    {
+        "path": "/media/posts/15/responsive/rolex-sm.jpg",
+        "type": "file",
+        "md5": "fdbff61b8b20f67c9823e4319a6a90c3"
+    },
+    {
+        "path": "/media/posts/15/responsive/rolex-xl.jpg",
+        "type": "file",
+        "md5": "fdbff61b8b20f67c9823e4319a6a90c3"
+    },
+    {
+        "path": "/media/posts/15/responsive/rolex-xs.jpg",
+        "type": "file",
+        "md5": "fdbff61b8b20f67c9823e4319a6a90c3"
+    },
+    {
+        "path": "/media/posts/15/responsive/skunk-2xl.jpg",
+        "type": "file",
+        "md5": "c3bc85e0c75afd7d95eedf80b4fa0e50"
+    },
+    {
+        "path": "/media/posts/15/responsive/skunk-lg.jpg",
+        "type": "file",
+        "md5": "c3bc85e0c75afd7d95eedf80b4fa0e50"
+    },
+    {
+        "path": "/media/posts/15/responsive/skunk-md.jpg",
+        "type": "file",
+        "md5": "c3bc85e0c75afd7d95eedf80b4fa0e50"
+    },
+    {
+        "path": "/media/posts/15/responsive/skunk-sm.jpg",
+        "type": "file",
+        "md5": "c3bc85e0c75afd7d95eedf80b4fa0e50"
+    },
+    {
+        "path": "/media/posts/15/responsive/skunk-xl.jpg",
+        "type": "file",
+        "md5": "c3bc85e0c75afd7d95eedf80b4fa0e50"
+    },
+    {
+        "path": "/media/posts/15/responsive/skunk-xs.jpg",
+        "type": "file",
+        "md5": "c3bc85e0c75afd7d95eedf80b4fa0e50"
+    },
+    {
+        "path": "/media/posts/15/rolex.jpg",
+        "type": "file",
+        "md5": "c2b8ece5d84450968575deb3eb0fcb7a"
+    },
+    {
+        "path": "/media/posts/15/skunk.jpg",
+        "type": "file",
+        "md5": "7ce5e04cab392e3bdad798a2c2a6de05"
+    },
+    {
+        "path": "media/posts/26",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/26/coffee.jpg",
+        "type": "file",
+        "md5": "e7ec5d5d51a2771d83c46207203e2757"
+    },
+    {
+        "path": "media/posts/26/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/26/responsive/coffee-2xl.jpg",
+        "type": "file",
+        "md5": "481e47173b730a71343c774db6c89a4a"
+    },
+    {
+        "path": "/media/posts/26/responsive/coffee-lg.jpg",
+        "type": "file",
+        "md5": "481e47173b730a71343c774db6c89a4a"
+    },
+    {
+        "path": "/media/posts/26/responsive/coffee-md.jpg",
+        "type": "file",
+        "md5": "481e47173b730a71343c774db6c89a4a"
+    },
+    {
+        "path": "/media/posts/26/responsive/coffee-sm.jpg",
+        "type": "file",
+        "md5": "481e47173b730a71343c774db6c89a4a"
+    },
+    {
+        "path": "/media/posts/26/responsive/coffee-xl.jpg",
+        "type": "file",
+        "md5": "481e47173b730a71343c774db6c89a4a"
+    },
+    {
+        "path": "/media/posts/26/responsive/coffee-xs.jpg",
+        "type": "file",
+        "md5": "481e47173b730a71343c774db6c89a4a"
+    },
+    {
+        "path": "media/posts/29",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/29/kurmakasana.jpg",
+        "type": "file",
+        "md5": "49e6d19c4336bdb5f213045bcf25c38d"
+    },
+    {
+        "path": "/media/posts/29/quetzalcoatl-2.jpg",
+        "type": "file",
+        "md5": "08b5a58ce270cc92318bf69ee87f0955"
+    },
+    {
+        "path": "media/posts/29/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/29/responsive/kurmakasana-2xl.jpg",
+        "type": "file",
+        "md5": "d5bf6a3ace7ef7299542ea1835a2ca82"
+    },
+    {
+        "path": "/media/posts/29/responsive/kurmakasana-lg.jpg",
+        "type": "file",
+        "md5": "d5bf6a3ace7ef7299542ea1835a2ca82"
+    },
+    {
+        "path": "/media/posts/29/responsive/kurmakasana-md.jpg",
+        "type": "file",
+        "md5": "d5bf6a3ace7ef7299542ea1835a2ca82"
+    },
+    {
+        "path": "/media/posts/29/responsive/kurmakasana-sm.jpg",
+        "type": "file",
+        "md5": "d5bf6a3ace7ef7299542ea1835a2ca82"
+    },
+    {
+        "path": "/media/posts/29/responsive/kurmakasana-xl.jpg",
+        "type": "file",
+        "md5": "d5bf6a3ace7ef7299542ea1835a2ca82"
+    },
+    {
+        "path": "/media/posts/29/responsive/kurmakasana-xs.jpg",
+        "type": "file",
+        "md5": "d5bf6a3ace7ef7299542ea1835a2ca82"
+    },
+    {
+        "path": "/media/posts/29/responsive/quetzalcoatl-2-2xl.jpg",
+        "type": "file",
+        "md5": "d35b4173d2e056509171bcef4a25c1f5"
+    },
+    {
+        "path": "/media/posts/29/responsive/quetzalcoatl-2-lg.jpg",
+        "type": "file",
+        "md5": "d35b4173d2e056509171bcef4a25c1f5"
+    },
+    {
+        "path": "/media/posts/29/responsive/quetzalcoatl-2-md.jpg",
+        "type": "file",
+        "md5": "d35b4173d2e056509171bcef4a25c1f5"
+    },
+    {
+        "path": "/media/posts/29/responsive/quetzalcoatl-2-sm.jpg",
+        "type": "file",
+        "md5": "d35b4173d2e056509171bcef4a25c1f5"
+    },
+    {
+        "path": "/media/posts/29/responsive/quetzalcoatl-2-xl.jpg",
+        "type": "file",
+        "md5": "d35b4173d2e056509171bcef4a25c1f5"
+    },
+    {
+        "path": "/media/posts/29/responsive/quetzalcoatl-2-xs.jpg",
+        "type": "file",
+        "md5": "d35b4173d2e056509171bcef4a25c1f5"
+    },
+    {
+        "path": "media/posts/31",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/31/ceiba.jpg",
+        "type": "file",
+        "md5": "1fceaf8f981dbd0a57ba6e0f32413f1a"
+    },
+    {
+        "path": "media/posts/31/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/31/responsive/ceiba-2xl.jpg",
+        "type": "file",
+        "md5": "2e66c36386e49148a5dcbb3d95427ca2"
+    },
+    {
+        "path": "/media/posts/31/responsive/ceiba-lg.jpg",
+        "type": "file",
+        "md5": "2e66c36386e49148a5dcbb3d95427ca2"
+    },
+    {
+        "path": "/media/posts/31/responsive/ceiba-md.jpg",
+        "type": "file",
+        "md5": "2e66c36386e49148a5dcbb3d95427ca2"
+    },
+    {
+        "path": "/media/posts/31/responsive/ceiba-sm.jpg",
+        "type": "file",
+        "md5": "2e66c36386e49148a5dcbb3d95427ca2"
+    },
+    {
+        "path": "/media/posts/31/responsive/ceiba-xl.jpg",
+        "type": "file",
+        "md5": "2e66c36386e49148a5dcbb3d95427ca2"
+    },
+    {
+        "path": "/media/posts/31/responsive/ceiba-xs.jpg",
+        "type": "file",
+        "md5": "2e66c36386e49148a5dcbb3d95427ca2"
+    },
+    {
+        "path": "media/posts/36",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/36/ernst.jpg",
+        "type": "file",
+        "md5": "d9c9a228caca3525bc40e075d24fc2b9"
+    },
+    {
+        "path": "media/posts/36/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/36/responsive/ernst-2xl.jpg",
+        "type": "file",
+        "md5": "e6eae499261714d29b3ec5af87dca4b6"
+    },
+    {
+        "path": "/media/posts/36/responsive/ernst-lg.jpg",
+        "type": "file",
+        "md5": "60732f1b8f0d1edf76708983323c1964"
+    },
+    {
+        "path": "/media/posts/36/responsive/ernst-md.jpg",
+        "type": "file",
+        "md5": "c05bb8e6fe4589a574fc8561cbc2dbf7"
+    },
+    {
+        "path": "/media/posts/36/responsive/ernst-sm.jpg",
+        "type": "file",
+        "md5": "ecaf473bba445bb2e21392251818e4ff"
+    },
+    {
+        "path": "/media/posts/36/responsive/ernst-xl.jpg",
+        "type": "file",
+        "md5": "e6eae499261714d29b3ec5af87dca4b6"
+    },
+    {
+        "path": "/media/posts/36/responsive/ernst-xs.jpg",
+        "type": "file",
+        "md5": "b2516a9c9b3476d49ee3820df2746e8e"
+    },
+    {
+        "path": "media/posts/43",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/43/9.jpg",
+        "type": "file",
+        "md5": "da7d3786a32c3a549ce8866ed21b5ef1"
+    },
+    {
+        "path": "media/posts/43/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/43/responsive/9-2xl.jpg",
+        "type": "file",
+        "md5": "b979fda68baafd8b3efde8e0ec1b0c9b"
+    },
+    {
+        "path": "/media/posts/43/responsive/9-lg.jpg",
+        "type": "file",
+        "md5": "b979fda68baafd8b3efde8e0ec1b0c9b"
+    },
+    {
+        "path": "/media/posts/43/responsive/9-md.jpg",
+        "type": "file",
+        "md5": "b979fda68baafd8b3efde8e0ec1b0c9b"
+    },
+    {
+        "path": "/media/posts/43/responsive/9-sm.jpg",
+        "type": "file",
+        "md5": "dc7c8f07ba8e305ea89cfffdfacbba78"
+    },
+    {
+        "path": "/media/posts/43/responsive/9-xl.jpg",
+        "type": "file",
+        "md5": "b979fda68baafd8b3efde8e0ec1b0c9b"
+    },
+    {
+        "path": "/media/posts/43/responsive/9-xs.jpg",
+        "type": "file",
+        "md5": "ecf08dc3bacfa7d82500c3e94ae4fc76"
+    },
+    {
+        "path": "media/posts/48",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/48/acharyas.jpg",
+        "type": "file",
+        "md5": "8624b6442f000cfb29fbc74948b0ad8a"
+    },
+    {
+        "path": "/media/posts/48/chidghananda.jpg",
+        "type": "file",
+        "md5": "ea83944cde411901d752363963c02a48"
+    },
+    {
+        "path": "/media/posts/48/quetzal.jpg",
+        "type": "file",
+        "md5": "e4612f49582e0af09785f530a0b1e587"
+    },
+    {
+        "path": "media/posts/48/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/48/responsive/acharyas-2xl.jpg",
+        "type": "file",
+        "md5": "f87a2d389c532d1a097545c17b30b174"
+    },
+    {
+        "path": "/media/posts/48/responsive/acharyas-lg.jpg",
+        "type": "file",
+        "md5": "f87a2d389c532d1a097545c17b30b174"
+    },
+    {
+        "path": "/media/posts/48/responsive/acharyas-md.jpg",
+        "type": "file",
+        "md5": "f87a2d389c532d1a097545c17b30b174"
+    },
+    {
+        "path": "/media/posts/48/responsive/acharyas-sm.jpg",
+        "type": "file",
+        "md5": "f87a2d389c532d1a097545c17b30b174"
+    },
+    {
+        "path": "/media/posts/48/responsive/acharyas-xl.jpg",
+        "type": "file",
+        "md5": "f87a2d389c532d1a097545c17b30b174"
+    },
+    {
+        "path": "/media/posts/48/responsive/acharyas-xs.jpg",
+        "type": "file",
+        "md5": "faea2a9ff9cdb0cf7fcc3ac30f24a87d"
+    },
+    {
+        "path": "/media/posts/48/responsive/chidghananda-2xl.jpg",
+        "type": "file",
+        "md5": "d2f3764fb31f6d04510ad27b88d65e4a"
+    },
+    {
+        "path": "/media/posts/48/responsive/chidghananda-lg.jpg",
+        "type": "file",
+        "md5": "d2f3764fb31f6d04510ad27b88d65e4a"
+    },
+    {
+        "path": "/media/posts/48/responsive/chidghananda-md.jpg",
+        "type": "file",
+        "md5": "d2f3764fb31f6d04510ad27b88d65e4a"
+    },
+    {
+        "path": "/media/posts/48/responsive/chidghananda-sm.jpg",
+        "type": "file",
+        "md5": "d2f3764fb31f6d04510ad27b88d65e4a"
+    },
+    {
+        "path": "/media/posts/48/responsive/chidghananda-xl.jpg",
+        "type": "file",
+        "md5": "d2f3764fb31f6d04510ad27b88d65e4a"
+    },
+    {
+        "path": "/media/posts/48/responsive/chidghananda-xs.jpg",
+        "type": "file",
+        "md5": "d2f3764fb31f6d04510ad27b88d65e4a"
+    },
+    {
+        "path": "/media/posts/48/responsive/quetzal-2xl.jpg",
+        "type": "file",
+        "md5": "70e1eb47be422c1267efae4c17c8b2e4"
+    },
+    {
+        "path": "/media/posts/48/responsive/quetzal-lg.jpg",
+        "type": "file",
+        "md5": "70e1eb47be422c1267efae4c17c8b2e4"
+    },
+    {
+        "path": "/media/posts/48/responsive/quetzal-md.jpg",
+        "type": "file",
+        "md5": "70e1eb47be422c1267efae4c17c8b2e4"
+    },
+    {
+        "path": "/media/posts/48/responsive/quetzal-sm.jpg",
+        "type": "file",
+        "md5": "7fe779d9ba2bc09f39b2949433a1902f"
+    },
+    {
+        "path": "/media/posts/48/responsive/quetzal-xl.jpg",
+        "type": "file",
+        "md5": "70e1eb47be422c1267efae4c17c8b2e4"
+    },
+    {
+        "path": "/media/posts/48/responsive/quetzal-xs.jpg",
+        "type": "file",
+        "md5": "68e2ea85b5c8431a6c8c74feb0d21dfd"
+    },
+    {
+        "path": "media/posts/53",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/53/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/53/responsive/white-trash-2-2xl.jpg",
+        "type": "file",
+        "md5": "6dd7a8dedefb778053534cd217f1aa78"
+    },
+    {
+        "path": "/media/posts/53/responsive/white-trash-2-lg.jpg",
+        "type": "file",
+        "md5": "6dd7a8dedefb778053534cd217f1aa78"
+    },
+    {
+        "path": "/media/posts/53/responsive/white-trash-2-md.jpg",
+        "type": "file",
+        "md5": "6dd7a8dedefb778053534cd217f1aa78"
+    },
+    {
+        "path": "/media/posts/53/responsive/white-trash-2-sm.jpg",
+        "type": "file",
+        "md5": "9d61d1e5c043567fbe9f8a6c97bc0e8a"
+    },
+    {
+        "path": "/media/posts/53/responsive/white-trash-2-xl.jpg",
+        "type": "file",
+        "md5": "6dd7a8dedefb778053534cd217f1aa78"
+    },
+    {
+        "path": "/media/posts/53/responsive/white-trash-2-xs.jpg",
+        "type": "file",
+        "md5": "446f29c370327c9426190c0612bc2da6"
+    },
+    {
+        "path": "/media/posts/53/responsive/white-trash-2xl.jpg",
+        "type": "file",
+        "md5": "6dd7a8dedefb778053534cd217f1aa78"
+    },
+    {
+        "path": "/media/posts/53/responsive/white-trash-lg.jpg",
+        "type": "file",
+        "md5": "6dd7a8dedefb778053534cd217f1aa78"
+    },
+    {
+        "path": "/media/posts/53/responsive/white-trash-md.jpg",
+        "type": "file",
+        "md5": "6dd7a8dedefb778053534cd217f1aa78"
+    },
+    {
+        "path": "/media/posts/53/responsive/white-trash-sm.jpg",
+        "type": "file",
+        "md5": "9d61d1e5c043567fbe9f8a6c97bc0e8a"
+    },
+    {
+        "path": "/media/posts/53/responsive/white-trash-xl.jpg",
+        "type": "file",
+        "md5": "6dd7a8dedefb778053534cd217f1aa78"
+    },
+    {
+        "path": "/media/posts/53/responsive/white-trash-xs.jpg",
+        "type": "file",
+        "md5": "446f29c370327c9426190c0612bc2da6"
+    },
+    {
+        "path": "/media/posts/53/white-trash-2.jpg",
+        "type": "file",
+        "md5": "a16c525747a5b75d799ff42f4d41ee81"
+    },
+    {
+        "path": "/media/posts/53/white-trash.jpg",
+        "type": "file",
+        "md5": "a16c525747a5b75d799ff42f4d41ee81"
+    },
+    {
+        "path": "media/posts/57",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/57/napalmgirl.jpg",
+        "type": "file",
+        "md5": "42e45d3ac525cc38fd2551a35b943816"
+    },
+    {
+        "path": "media/posts/57/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/57/responsive/napalmgirl-2xl.jpg",
+        "type": "file",
+        "md5": "033162e9c0469dec54ae2068eff2a7b1"
+    },
+    {
+        "path": "/media/posts/57/responsive/napalmgirl-lg.jpg",
+        "type": "file",
+        "md5": "033162e9c0469dec54ae2068eff2a7b1"
+    },
+    {
+        "path": "/media/posts/57/responsive/napalmgirl-md.jpg",
+        "type": "file",
+        "md5": "033162e9c0469dec54ae2068eff2a7b1"
+    },
+    {
+        "path": "/media/posts/57/responsive/napalmgirl-sm.jpg",
+        "type": "file",
+        "md5": "033162e9c0469dec54ae2068eff2a7b1"
+    },
+    {
+        "path": "/media/posts/57/responsive/napalmgirl-xl.jpg",
+        "type": "file",
+        "md5": "033162e9c0469dec54ae2068eff2a7b1"
+    },
+    {
+        "path": "/media/posts/57/responsive/napalmgirl-xs.jpg",
+        "type": "file",
+        "md5": "033162e9c0469dec54ae2068eff2a7b1"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/acharyas.jpg",
+        "type": "file",
+        "md5": "8624b6442f000cfb29fbc74948b0ad8a"
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/acharyas-2xl.jpg",
+        "type": "file",
+        "md5": "f87a2d389c532d1a097545c17b30b174"
+    },
+    {
+        "path": "/media/posts/6/responsive/acharyas-lg.jpg",
+        "type": "file",
+        "md5": "f87a2d389c532d1a097545c17b30b174"
+    },
+    {
+        "path": "/media/posts/6/responsive/acharyas-md.jpg",
+        "type": "file",
+        "md5": "f87a2d389c532d1a097545c17b30b174"
+    },
+    {
+        "path": "/media/posts/6/responsive/acharyas-sm.jpg",
+        "type": "file",
+        "md5": "f87a2d389c532d1a097545c17b30b174"
+    },
+    {
+        "path": "/media/posts/6/responsive/acharyas-xl.jpg",
+        "type": "file",
+        "md5": "f87a2d389c532d1a097545c17b30b174"
+    },
+    {
+        "path": "/media/posts/6/responsive/acharyas-xs.jpg",
+        "type": "file",
+        "md5": "faea2a9ff9cdb0cf7fcc3ac30f24a87d"
+    },
+    {
+        "path": "media/posts/66",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/66/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/66/responsive/Trump-Christ-2xl.webp",
+        "type": "file",
+        "md5": "afd853bf232c66d6c22d9737aeca366f"
+    },
+    {
+        "path": "/media/posts/66/responsive/Trump-Christ-lg.webp",
+        "type": "file",
+        "md5": "afd853bf232c66d6c22d9737aeca366f"
+    },
+    {
+        "path": "/media/posts/66/responsive/Trump-Christ-md.webp",
+        "type": "file",
+        "md5": "afd853bf232c66d6c22d9737aeca366f"
+    },
+    {
+        "path": "/media/posts/66/responsive/Trump-Christ-sm.webp",
+        "type": "file",
+        "md5": "afd853bf232c66d6c22d9737aeca366f"
+    },
+    {
+        "path": "/media/posts/66/responsive/Trump-Christ-xl.webp",
+        "type": "file",
+        "md5": "afd853bf232c66d6c22d9737aeca366f"
+    },
+    {
+        "path": "/media/posts/66/responsive/Trump-Christ-xs.webp",
+        "type": "file",
+        "md5": "e7096c234dded59ac49c8089788ac111"
+    },
+    {
+        "path": "/media/posts/66/Trump-Christ.webp",
+        "type": "file",
+        "md5": "a10f223062e6e6abde1993b14869baa5"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/anandamurti.jpg",
+        "type": "file",
+        "md5": "4cff02c7ec97708a6325f3ed7186c442"
+    },
+    {
+        "path": "media/posts/7/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/responsive/anandamurti-2xl.jpg",
+        "type": "file",
+        "md5": "2c1db6df068f51d436be00426acc1493"
+    },
+    {
+        "path": "/media/posts/7/responsive/anandamurti-lg.jpg",
+        "type": "file",
+        "md5": "2c1db6df068f51d436be00426acc1493"
+    },
+    {
+        "path": "/media/posts/7/responsive/anandamurti-md.jpg",
+        "type": "file",
+        "md5": "2c1db6df068f51d436be00426acc1493"
+    },
+    {
+        "path": "/media/posts/7/responsive/anandamurti-sm.jpg",
+        "type": "file",
+        "md5": "2c1db6df068f51d436be00426acc1493"
+    },
+    {
+        "path": "/media/posts/7/responsive/anandamurti-xl.jpg",
+        "type": "file",
+        "md5": "2c1db6df068f51d436be00426acc1493"
+    },
+    {
+        "path": "/media/posts/7/responsive/anandamurti-xs.jpg",
+        "type": "file",
+        "md5": "2c1db6df068f51d436be00426acc1493"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/quetzal.jpg",
+        "type": "file",
+        "md5": "e4612f49582e0af09785f530a0b1e587"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/quetzal-2xl.jpg",
+        "type": "file",
+        "md5": "70e1eb47be422c1267efae4c17c8b2e4"
+    },
+    {
+        "path": "/media/website/responsive/quetzal-lg.jpg",
+        "type": "file",
+        "md5": "70e1eb47be422c1267efae4c17c8b2e4"
+    },
+    {
+        "path": "/media/website/responsive/quetzal-md.jpg",
+        "type": "file",
+        "md5": "70e1eb47be422c1267efae4c17c8b2e4"
+    },
+    {
+        "path": "/media/website/responsive/quetzal-sm.jpg",
+        "type": "file",
+        "md5": "7fe779d9ba2bc09f39b2949433a1902f"
+    },
+    {
+        "path": "/media/website/responsive/quetzal-xl.jpg",
+        "type": "file",
+        "md5": "70e1eb47be422c1267efae4c17c8b2e4"
+    },
+    {
+        "path": "/media/website/responsive/quetzal-xs.jpg",
+        "type": "file",
+        "md5": "68e2ea85b5c8431a6c8c74feb0d21dfd"
+    },
+    {
+        "path": "personalities",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/personalities/index.html",
+        "type": "file",
+        "md5": "23a94c216a100deda7ef3ecdcfbc6dcb"
+    },
+    {
+        "path": "pleasures-habits-and-addictions",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pleasures-habits-and-addictions/index.html",
+        "type": "file",
+        "md5": "a929f0ad4ff84564485546ffa7f837cd"
+    },
+    {
+        "path": "psorax",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/psorax/index.html",
+        "type": "file",
+        "md5": "0e6cb4f5c094f854495a88c4c377746d"
+    },
+    {
+        "path": "quetzal-bill-to-bonzai-baba",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quetzal-bill-to-bonzai-baba/index.html",
+        "type": "file",
+        "md5": "46c4995e78bdbb69e62c5144d5aca873"
+    },
+    {
+        "path": "recreating",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/recreating/index.html",
+        "type": "file",
+        "md5": "dd3c9c49d6ff374beb62eeac627ce8ff"
+    },
+    {
+        "path": "redemption",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/redemption/index.html",
+        "type": "file",
+        "md5": "5070b7d816383fe765c3de268a647351"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "259ebd83f79a9403a44e69b1efab75b5"
+    },
+    {
+        "path": "search-index.json",
+        "type": "file",
+        "md5": "ae7d30c9c1a8cf51c6a4fc8b0e536911"
+    },
+    {
+        "path": "search.html",
+        "type": "file",
+        "md5": "4c955ec3796bf8dbf6df9e7198c9bd22"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "ff0c139e91bdea70a931db46b5032216"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "stories-of-quetzal",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/stories-of-quetzal/index.html",
+        "type": "file",
+        "md5": "b893e7b94ed542c97fc66d8b29de239d"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "8184e005f4c80a6eccbeae0da64bfae6"
+    },
+    {
+        "path": "the-breaking-point-and-the-possessed",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-breaking-point-and-the-possessed/index.html",
+        "type": "file",
+        "md5": "f5589aafa5b7421f32b39c4822dff787"
+    },
+    {
+        "path": "the-debate",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-debate/index.html",
+        "type": "file",
+        "md5": "619049784514252da7f9b054e0eed317"
+    },
+    {
+        "path": "the-divine-cactus",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-divine-cactus/index.html",
+        "type": "file",
+        "md5": "97edd1886b9c10cce4a9d7695e897ff9"
+    },
+    {
+        "path": "the-elite-pseudoculture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-elite-pseudoculture/index.html",
+        "type": "file",
+        "md5": "55b55f8541762cd75574255e77d86c2c"
+    },
+    {
+        "path": "the-indigenous-revolution",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-indigenous-revolution/index.html",
+        "type": "file",
+        "md5": "1e4ffd0c1b5e6f77bc070e55c346bd91"
+    },
+    {
+        "path": "the-infinite-eye",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-infinite-eye/index.html",
+        "type": "file",
+        "md5": "c9251550a87a869b832c1ca8c833851e"
+    },
+    {
+        "path": "the-inward-mirror",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-inward-mirror/index.html",
+        "type": "file",
+        "md5": "3fa246e5dc8c3a9a76d98808335b547d"
+    },
+    {
+        "path": "the-liberation-of-desire",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-liberation-of-desire/index.html",
+        "type": "file",
+        "md5": "e6df77fc07e1cb02e863673b0ba7715f"
+    },
+    {
+        "path": "the-net",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-net/index.html",
+        "type": "file",
+        "md5": "32b976cbe73b0c7cc0bfefb69bc8cb1c"
+    },
+    {
+        "path": "the-perennial-philosophy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-perennial-philosophy/index.html",
+        "type": "file",
+        "md5": "12ecde8340585ba781bb26fbbe8909dd"
+    },
+    {
+        "path": "the-shadow-of-the-guru",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-shadow-of-the-guru/index.html",
+        "type": "file",
+        "md5": "f83e8f3a666d44f12fecf0d70bc8ca23"
+    },
+    {
+        "path": "the-timeless-tattoo",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-timeless-tattoo/index.html",
+        "type": "file",
+        "md5": "3a9743a4e804067fa980a3280e26e3f5"
+    },
+    {
+        "path": "the-tree-tantra",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-tree-tantra/index.html",
+        "type": "file",
+        "md5": "b2e19c7085334627a26248c5dcb0bac8"
+    },
+    {
+        "path": "the-way",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-way/index.html",
+        "type": "file",
+        "md5": "ef7ffbdabee192751e6eecb8e3f2892d"
+    },
+    {
+        "path": "universal-tantra",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/universal-tantra/index.html",
+        "type": "file",
+        "md5": "05c91c3da89be43d0bf20c142605d32a"
+    },
+    {
+        "path": "white-trash-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/white-trash-2/index.html",
+        "type": "file",
+        "md5": "b859570e797f451107b1e460c5069b03"
+    },
+    {
+        "path": "why-is-this-evil-upon-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/why-is-this-evil-upon-us/index.html",
+        "type": "file",
+        "md5": "7dfb4e0aae81d02c1b171a4580569264"
+    },
+    {
+        "path": "william-enckhausen",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/william-enckhausen/index.html",
+        "type": "file",
+        "md5": "c79689f1668e54fa089ca2e499c9e91a"
+    },
+    {
+        "path": "works",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/works/index.html",
+        "type": "file",
+        "md5": "fc9162499fb4a3e807a0be90c3aa3a1f"
+    }
+]

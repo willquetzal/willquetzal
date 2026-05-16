@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://williamquetzal.org/sitemap.xml
