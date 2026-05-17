@@ -82,17 +82,7 @@
     {
         "path": "/authors/willliam-enckhausen/index.html",
         "type": "file",
-        "md5": "be7faeddb1f2d4cdfc01b7e1ff87b185"
-    },
-    {
-        "path": "ayunar-con-las-fases-de-la-luna",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/ayunar-con-las-fases-de-la-luna/index.html",
-        "type": "file",
-        "md5": "02e08ec382b9c6a463f1e4521921ff21"
+        "md5": "a2d3048c309b2ecc00a0b6f04553f5dd"
     },
     {
         "path": "contactar-suscribir",
@@ -102,7 +92,7 @@
     {
         "path": "/contactar-suscribir/index.html",
         "type": "file",
-        "md5": "a7a4c109366a3d8f806a1bc1738445da"
+        "md5": "4b637b7f0cc0f9ad2c96ec97b65ba87c"
     },
     {
         "path": "cool-kulkan",
@@ -112,7 +102,7 @@
     {
         "path": "/cool-kulkan/index.html",
         "type": "file",
-        "md5": "37bd3edc3a462f32d4cfe8fb36e99c15"
+        "md5": "2b4e414d82257321c7385c689f3888f7"
     },
     {
         "path": "de-quetzalcoatl-a-casanova",
@@ -122,7 +112,7 @@
     {
         "path": "/de-quetzalcoatl-a-casanova/index.html",
         "type": "file",
-        "md5": "ae360c67939453f61e38482194f443d0"
+        "md5": "6854a7006c432a05a2109d5924f9663f"
     },
     {
         "path": "dogma-disonancia-y-disenso",
@@ -132,7 +122,7 @@
     {
         "path": "/dogma-disonancia-y-disenso/index.html",
         "type": "file",
-        "md5": "7be988bd27b6d3091fa63959811e2f8d"
+        "md5": "c8884d7e04b71bd42d0901a50e3970d7"
     },
     {
         "path": "el-cactus-divino",
@@ -142,7 +132,7 @@
     {
         "path": "/el-cactus-divino/index.html",
         "type": "file",
-        "md5": "ffdf30cc688ccb6c6cfb1844c53ede63"
+        "md5": "c832d33433feb08dd4fdecf0a20c7a04"
     },
     {
         "path": "el-camino",
@@ -152,7 +142,7 @@
     {
         "path": "/el-camino/index.html",
         "type": "file",
-        "md5": "bfd199b061aa6ac4695b946592514a71"
+        "md5": "5020b9231bedf1e3d4346a4833bde27b"
     },
     {
         "path": "el-debate",
@@ -162,7 +152,7 @@
     {
         "path": "/el-debate/index.html",
         "type": "file",
-        "md5": "d0aae7e7d28d90b09bf6c0a8733ee4d4"
+        "md5": "635276957b3edcb21448f88df85f7be2"
     },
     {
         "path": "el-discernimiento-y-la-depresion",
@@ -172,7 +162,7 @@
     {
         "path": "/el-discernimiento-y-la-depresion/index.html",
         "type": "file",
-        "md5": "a7ef04a9d3627aba24c4951d1e461e96"
+        "md5": "005f7942aea480e9e09d365772a25445"
     },
     {
         "path": "el-espejo-interior",
@@ -182,7 +172,7 @@
     {
         "path": "/el-espejo-interior/index.html",
         "type": "file",
-        "md5": "7ed4c6bed8064ea100d088f4eb51916f"
+        "md5": "bd1c29b23aff0c2936b51a10627610e9"
     },
     {
         "path": "el-ojo-del-infinito",
@@ -192,7 +182,7 @@
     {
         "path": "/el-ojo-del-infinito/index.html",
         "type": "file",
-        "md5": "4cb6642fe1eb3241ed9cf6703a60278d"
+        "md5": "b988c33d0a7fd134bbc0eec1223b562e"
     },
     {
         "path": "el-poder-y-la-perdida",
@@ -202,7 +192,7 @@
     {
         "path": "/el-poder-y-la-perdida/index.html",
         "type": "file",
-        "md5": "fa80e856a67501d0dda1cad6f2d61ca6"
+        "md5": "0e2eaa92bd2b89064474dcd96079935a"
     },
     {
         "path": "el-punto-de-quiebre-y-los-poseidos",
@@ -212,7 +202,7 @@
     {
         "path": "/el-punto-de-quiebre-y-los-poseidos/index.html",
         "type": "file",
-        "md5": "aa47fd84731020e50c6f4fbf72c8ae74"
+        "md5": "fd4a361240f4507c161f6a5cf9ae31f7"
     },
     {
         "path": "el-tantra-del-arbol",
@@ -222,7 +212,7 @@
     {
         "path": "/el-tantra-del-arbol/index.html",
         "type": "file",
-        "md5": "f03222e9219b826c68710b0b685cc1d2"
+        "md5": "0e7e9f7a99c993486d2067b90af13308"
     },
     {
         "path": "el-tatuaje-atemporal",
@@ -232,7 +222,7 @@
     {
         "path": "/el-tatuaje-atemporal/index.html",
         "type": "file",
-        "md5": "8c6ede2cf47759870e56f94da0cb25e6"
+        "md5": "a86aaa1224c16e08aeaa9930120fc1fc"
     },
     {
         "path": "el-vuelo-del-quetzal",
@@ -242,7 +232,7 @@
     {
         "path": "/el-vuelo-del-quetzal/index.html",
         "type": "file",
-        "md5": "917e44244b043a8d3b2c5c94f8b8dd12"
+        "md5": "faf34bad33e02eb07c36ef7fd666ebf4"
     },
     {
         "path": "entre-dos-diablos",
@@ -252,17 +242,17 @@
     {
         "path": "/entre-dos-diablos/index.html",
         "type": "file",
-        "md5": "f2ea88ea56de51c884339a2715191273"
+        "md5": "a6fc1c3174d6144c3d01c6b46adf0605"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "ce049420e02a082b5304f80284564009"
+        "md5": "d7e16e9d2acccfe9eafabfeb0ce0070e"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "f39004c0f01f221241db58dc00836023"
+        "md5": "0df334c9db61c03a5e029a59e186d04e"
     },
     {
         "path": "forma-y-sin-forma",
@@ -272,7 +262,7 @@
     {
         "path": "/forma-y-sin-forma/index.html",
         "type": "file",
-        "md5": "39eb834da15d9ad746798d6a43c1a2da"
+        "md5": "ba90b37e555c1fa91fdeb458c460afca"
     },
     {
         "path": "historias-de-quetzal",
@@ -282,7 +272,7 @@
     {
         "path": "/historias-de-quetzal/index.html",
         "type": "file",
-        "md5": "6abc5622a382885ac55c6a788f0c7a9f"
+        "md5": "c0b68841e23fe9cb5446af8807ab5e36"
     },
     {
         "path": "hitler-killer-y-los-adoradores-del-lagarto",
@@ -292,12 +282,12 @@
     {
         "path": "/hitler-killer-y-los-adoradores-del-lagarto/index.html",
         "type": "file",
-        "md5": "5b0cb0be45ec5c9ad97c4296261e9c2d"
+        "md5": "de3de6a51816c2664687d6185f72b7e6"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "aca3e81a098698620dbdc42ba8620b85"
+        "md5": "3b48b8ab776e0c86c0637c14017f24b9"
     },
     {
         "path": "la-alegria-y-el-trauma",
@@ -307,7 +297,7 @@
     {
         "path": "/la-alegria-y-el-trauma/index.html",
         "type": "file",
-        "md5": "897a4753ef51e59b68ba4ea339087c45"
+        "md5": "f04f05f6112d196b4bae179349bf8c23"
     },
     {
         "path": "la-basura-blanca-2",
@@ -317,7 +307,7 @@
     {
         "path": "/la-basura-blanca-2/index.html",
         "type": "file",
-        "md5": "4cb8a8533a75c9ba31fef855dc4d63f0"
+        "md5": "1133921241e94b6ee830b5820bb04f14"
     },
     {
         "path": "la-evolucion-colectiva",
@@ -327,7 +317,7 @@
     {
         "path": "/la-evolucion-colectiva/index.html",
         "type": "file",
-        "md5": "3d4aa59ee21f044b2dfed8269deb91f5"
+        "md5": "8b2fffda5e9ee8b3afab3ac30d91a867"
     },
     {
         "path": "la-filosofia-perenne",
@@ -337,7 +327,7 @@
     {
         "path": "/la-filosofia-perenne/index.html",
         "type": "file",
-        "md5": "bedb526dcbfee21f8ebec7248ed71d63"
+        "md5": "69257c15f49af73a27d443789d918f4a"
     },
     {
         "path": "la-liberacion-del-deseo",
@@ -347,7 +337,7 @@
     {
         "path": "/la-liberacion-del-deseo/index.html",
         "type": "file",
-        "md5": "aa1145c10bc83a5fe4c4e7654150db64"
+        "md5": "b5222057f5955ed6d5d5eeac032345eb"
     },
     {
         "path": "la-pseudacultura-elite",
@@ -357,7 +347,7 @@
     {
         "path": "/la-pseudacultura-elite/index.html",
         "type": "file",
-        "md5": "392c5288fbaf1c1d212b64bd4bdb31bc"
+        "md5": "62bcaea638a9a3161f54a534bea3269e"
     },
     {
         "path": "la-red",
@@ -367,7 +357,7 @@
     {
         "path": "/la-red/index.html",
         "type": "file",
-        "md5": "ac24481997581c7d6d32897c212dbf32"
+        "md5": "cf7751fdd54d0b40fd10d36c58f222ad"
     },
     {
         "path": "la-redencion",
@@ -377,7 +367,7 @@
     {
         "path": "/la-redencion/index.html",
         "type": "file",
-        "md5": "63db1f36de4ca73af1e6ae1367af6b4e"
+        "md5": "ba498b8034a90fa236d246a88ef7b08f"
     },
     {
         "path": "la-revolucion-indigena",
@@ -387,7 +377,7 @@
     {
         "path": "/la-revolucion-indigena/index.html",
         "type": "file",
-        "md5": "0d5858f9ea2a2870787932cf97bf3554"
+        "md5": "e1e39754b5df90abcdb8098ec2d5c654"
     },
     {
         "path": "la-sombra-del-guru",
@@ -397,7 +387,7 @@
     {
         "path": "/la-sombra-del-guru/index.html",
         "type": "file",
-        "md5": "c072e1ed87dba8f71a7d2ea0b7e93376"
+        "md5": "5c2ab046fa2b788c7e128fafe0847fbd"
     },
     {
         "path": "las-nupcias-del-sentido-con-el-alma",
@@ -407,17 +397,7 @@
     {
         "path": "/las-nupcias-del-sentido-con-el-alma/index.html",
         "type": "file",
-        "md5": "fcbc2eba21a4dcbb3391596e534f1509"
-    },
-    {
-        "path": "las-ranas-y-las-fugas",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/las-ranas-y-las-fugas/index.html",
-        "type": "file",
-        "md5": "03a835f47cc190ab0ecc7b6336dcce7e"
+        "md5": "24a39297971f94b3ad97f3d27647f399"
     },
     {
         "path": "libros",
@@ -427,7 +407,7 @@
     {
         "path": "/libros/index.html",
         "type": "file",
-        "md5": "3cc6dd9711ab29fe0b2a939aea0a2816"
+        "md5": "b2c75fa45ec75225d35d7465b5498af0"
     },
     {
         "path": "los-asanas-la-etica-y-la-evolucion",
@@ -437,7 +417,7 @@
     {
         "path": "/los-asanas-la-etica-y-la-evolucion/index.html",
         "type": "file",
-        "md5": "6f7ae3117faa13067cae91abfb42cbc8"
+        "md5": "f71a5aad32718b9d4386315abb9a6584"
     },
     {
         "path": "media",
@@ -448,6 +428,166 @@
         "path": "media/posts",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/posts/12",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/12/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/responsive/zapluna-2-2xl.jpg",
+        "type": "file",
+        "md5": "7973cd5579ae7359e66030f0c1b176fe"
+    },
+    {
+        "path": "/media/posts/12/responsive/zapluna-2-lg.jpg",
+        "type": "file",
+        "md5": "7973cd5579ae7359e66030f0c1b176fe"
+    },
+    {
+        "path": "/media/posts/12/responsive/zapluna-2-md.jpg",
+        "type": "file",
+        "md5": "7973cd5579ae7359e66030f0c1b176fe"
+    },
+    {
+        "path": "/media/posts/12/responsive/zapluna-2-sm.jpg",
+        "type": "file",
+        "md5": "7973cd5579ae7359e66030f0c1b176fe"
+    },
+    {
+        "path": "/media/posts/12/responsive/zapluna-2-xl.jpg",
+        "type": "file",
+        "md5": "7973cd5579ae7359e66030f0c1b176fe"
+    },
+    {
+        "path": "/media/posts/12/responsive/zapluna-2-xs.jpg",
+        "type": "file",
+        "md5": "7973cd5579ae7359e66030f0c1b176fe"
+    },
+    {
+        "path": "/media/posts/12/zapluna-2.jpg",
+        "type": "file",
+        "md5": "df1036122056f7ecab4c417a56acdc05"
+    },
+    {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/padmasambhava.jpg",
+        "type": "file",
+        "md5": "2e6202a0db180e99089f31077f76b826"
+    },
+    {
+        "path": "media/posts/13/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/responsive/padmasambhava-2xl.jpg",
+        "type": "file",
+        "md5": "597445b7dca08cd97f3e78ba7e02f5bf"
+    },
+    {
+        "path": "/media/posts/13/responsive/padmasambhava-lg.jpg",
+        "type": "file",
+        "md5": "597445b7dca08cd97f3e78ba7e02f5bf"
+    },
+    {
+        "path": "/media/posts/13/responsive/padmasambhava-md.jpg",
+        "type": "file",
+        "md5": "597445b7dca08cd97f3e78ba7e02f5bf"
+    },
+    {
+        "path": "/media/posts/13/responsive/padmasambhava-sm.jpg",
+        "type": "file",
+        "md5": "597445b7dca08cd97f3e78ba7e02f5bf"
+    },
+    {
+        "path": "/media/posts/13/responsive/padmasambhava-xl.jpg",
+        "type": "file",
+        "md5": "597445b7dca08cd97f3e78ba7e02f5bf"
+    },
+    {
+        "path": "/media/posts/13/responsive/padmasambhava-xs.jpg",
+        "type": "file",
+        "md5": "597445b7dca08cd97f3e78ba7e02f5bf"
+    },
+    {
+        "path": "/media/posts/13/responsive/rolex-2xl.jpg",
+        "type": "file",
+        "md5": "fdbff61b8b20f67c9823e4319a6a90c3"
+    },
+    {
+        "path": "/media/posts/13/responsive/rolex-lg.jpg",
+        "type": "file",
+        "md5": "fdbff61b8b20f67c9823e4319a6a90c3"
+    },
+    {
+        "path": "/media/posts/13/responsive/rolex-md.jpg",
+        "type": "file",
+        "md5": "fdbff61b8b20f67c9823e4319a6a90c3"
+    },
+    {
+        "path": "/media/posts/13/responsive/rolex-sm.jpg",
+        "type": "file",
+        "md5": "fdbff61b8b20f67c9823e4319a6a90c3"
+    },
+    {
+        "path": "/media/posts/13/responsive/rolex-xl.jpg",
+        "type": "file",
+        "md5": "fdbff61b8b20f67c9823e4319a6a90c3"
+    },
+    {
+        "path": "/media/posts/13/responsive/rolex-xs.jpg",
+        "type": "file",
+        "md5": "fdbff61b8b20f67c9823e4319a6a90c3"
+    },
+    {
+        "path": "/media/posts/13/responsive/skunk-2xl.jpg",
+        "type": "file",
+        "md5": "c3bc85e0c75afd7d95eedf80b4fa0e50"
+    },
+    {
+        "path": "/media/posts/13/responsive/skunk-lg.jpg",
+        "type": "file",
+        "md5": "c3bc85e0c75afd7d95eedf80b4fa0e50"
+    },
+    {
+        "path": "/media/posts/13/responsive/skunk-md.jpg",
+        "type": "file",
+        "md5": "c3bc85e0c75afd7d95eedf80b4fa0e50"
+    },
+    {
+        "path": "/media/posts/13/responsive/skunk-sm.jpg",
+        "type": "file",
+        "md5": "c3bc85e0c75afd7d95eedf80b4fa0e50"
+    },
+    {
+        "path": "/media/posts/13/responsive/skunk-xl.jpg",
+        "type": "file",
+        "md5": "c3bc85e0c75afd7d95eedf80b4fa0e50"
+    },
+    {
+        "path": "/media/posts/13/responsive/skunk-xs.jpg",
+        "type": "file",
+        "md5": "c3bc85e0c75afd7d95eedf80b4fa0e50"
+    },
+    {
+        "path": "/media/posts/13/rolex.jpg",
+        "type": "file",
+        "md5": "c2b8ece5d84450968575deb3eb0fcb7a"
+    },
+    {
+        "path": "/media/posts/13/skunk.jpg",
+        "type": "file",
+        "md5": "7ce5e04cab392e3bdad798a2c2a6de05"
     },
     {
         "path": "media/posts/16",
@@ -545,6 +685,11 @@
         "md5": false
     },
     {
+        "path": "/media/posts/2/chandranath.jpg",
+        "type": "file",
+        "md5": "b710376be578c12bf0367d2c96175cb3"
+    },
+    {
         "path": "/media/posts/2/chidghananda.jpg",
         "type": "file",
         "md5": "ea83944cde411901d752363963c02a48"
@@ -558,6 +703,36 @@
         "path": "media/posts/2/responsive",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/chandranath-2xl.jpg",
+        "type": "file",
+        "md5": "280116b028bb9d27dfef4c6837017d89"
+    },
+    {
+        "path": "/media/posts/2/responsive/chandranath-lg.jpg",
+        "type": "file",
+        "md5": "280116b028bb9d27dfef4c6837017d89"
+    },
+    {
+        "path": "/media/posts/2/responsive/chandranath-md.jpg",
+        "type": "file",
+        "md5": "127845abde31b1e7fc943602c7ba0105"
+    },
+    {
+        "path": "/media/posts/2/responsive/chandranath-sm.jpg",
+        "type": "file",
+        "md5": "c732ba426f473b7c776639eef8d8c48d"
+    },
+    {
+        "path": "/media/posts/2/responsive/chandranath-xl.jpg",
+        "type": "file",
+        "md5": "280116b028bb9d27dfef4c6837017d89"
+    },
+    {
+        "path": "/media/posts/2/responsive/chandranath-xs.jpg",
+        "type": "file",
+        "md5": "aa3b121c36ade53cee4e987d00eebe5f"
     },
     {
         "path": "/media/posts/2/responsive/chidghananda-2xl.jpg",
@@ -700,6 +875,51 @@
         "md5": "1e6d5c85c491a37a158f83dd8c0a716a"
     },
     {
+        "path": "media/posts/28",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/28/coffee.jpg",
+        "type": "file",
+        "md5": "e7ec5d5d51a2771d83c46207203e2757"
+    },
+    {
+        "path": "media/posts/28/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/28/responsive/coffee-2xl.jpg",
+        "type": "file",
+        "md5": "481e47173b730a71343c774db6c89a4a"
+    },
+    {
+        "path": "/media/posts/28/responsive/coffee-lg.jpg",
+        "type": "file",
+        "md5": "481e47173b730a71343c774db6c89a4a"
+    },
+    {
+        "path": "/media/posts/28/responsive/coffee-md.jpg",
+        "type": "file",
+        "md5": "481e47173b730a71343c774db6c89a4a"
+    },
+    {
+        "path": "/media/posts/28/responsive/coffee-sm.jpg",
+        "type": "file",
+        "md5": "481e47173b730a71343c774db6c89a4a"
+    },
+    {
+        "path": "/media/posts/28/responsive/coffee-xl.jpg",
+        "type": "file",
+        "md5": "481e47173b730a71343c774db6c89a4a"
+    },
+    {
+        "path": "/media/posts/28/responsive/coffee-xs.jpg",
+        "type": "file",
+        "md5": "481e47173b730a71343c774db6c89a4a"
+    },
+    {
         "path": "media/posts/31",
         "type": "directory",
         "md5": false
@@ -788,6 +1008,51 @@
         "path": "/media/posts/33/responsive/ceiba-xs.jpg",
         "type": "file",
         "md5": "2e66c36386e49148a5dcbb3d95427ca2"
+    },
+    {
+        "path": "media/posts/35",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/35/ernst.jpg",
+        "type": "file",
+        "md5": "d9c9a228caca3525bc40e075d24fc2b9"
+    },
+    {
+        "path": "media/posts/35/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/35/responsive/ernst-2xl.jpg",
+        "type": "file",
+        "md5": "e6eae499261714d29b3ec5af87dca4b6"
+    },
+    {
+        "path": "/media/posts/35/responsive/ernst-lg.jpg",
+        "type": "file",
+        "md5": "60732f1b8f0d1edf76708983323c1964"
+    },
+    {
+        "path": "/media/posts/35/responsive/ernst-md.jpg",
+        "type": "file",
+        "md5": "c05bb8e6fe4589a574fc8561cbc2dbf7"
+    },
+    {
+        "path": "/media/posts/35/responsive/ernst-sm.jpg",
+        "type": "file",
+        "md5": "ecaf473bba445bb2e21392251818e4ff"
+    },
+    {
+        "path": "/media/posts/35/responsive/ernst-xl.jpg",
+        "type": "file",
+        "md5": "e6eae499261714d29b3ec5af87dca4b6"
+    },
+    {
+        "path": "/media/posts/35/responsive/ernst-xs.jpg",
+        "type": "file",
+        "md5": "b2516a9c9b3476d49ee3820df2746e8e"
     },
     {
         "path": "media/posts/4",
@@ -1050,6 +1315,96 @@
         "md5": "033162e9c0469dec54ae2068eff2a7b1"
     },
     {
+        "path": "media/posts/61",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/61/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/61/responsive/Trump-Christ-2xl-2xl.webp",
+        "type": "file",
+        "md5": "8c67ec53e31c79895861913cd099b1f2"
+    },
+    {
+        "path": "/media/posts/61/responsive/Trump-Christ-2xl-lg.webp",
+        "type": "file",
+        "md5": "8c67ec53e31c79895861913cd099b1f2"
+    },
+    {
+        "path": "/media/posts/61/responsive/Trump-Christ-2xl-md.webp",
+        "type": "file",
+        "md5": "8c67ec53e31c79895861913cd099b1f2"
+    },
+    {
+        "path": "/media/posts/61/responsive/Trump-Christ-2xl-sm.webp",
+        "type": "file",
+        "md5": "8c67ec53e31c79895861913cd099b1f2"
+    },
+    {
+        "path": "/media/posts/61/responsive/Trump-Christ-2xl-xl.webp",
+        "type": "file",
+        "md5": "8c67ec53e31c79895861913cd099b1f2"
+    },
+    {
+        "path": "/media/posts/61/responsive/Trump-Christ-2xl-xs.webp",
+        "type": "file",
+        "md5": "5d99b1f6d828a2e6ecb7d3264e10a1e5"
+    },
+    {
+        "path": "/media/posts/61/Trump-Christ-2xl.webp",
+        "type": "file",
+        "md5": "afd853bf232c66d6c22d9737aeca366f"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/7/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/responsive/rublev-2xl.jpg",
+        "type": "file",
+        "md5": "01099141db40494377f3cbc1b3121dc1"
+    },
+    {
+        "path": "/media/posts/7/responsive/rublev-lg.jpg",
+        "type": "file",
+        "md5": "01099141db40494377f3cbc1b3121dc1"
+    },
+    {
+        "path": "/media/posts/7/responsive/rublev-md.jpg",
+        "type": "file",
+        "md5": "01099141db40494377f3cbc1b3121dc1"
+    },
+    {
+        "path": "/media/posts/7/responsive/rublev-sm.jpg",
+        "type": "file",
+        "md5": "cccd37b3e235b66184094eb566a59bde"
+    },
+    {
+        "path": "/media/posts/7/responsive/rublev-xl.jpg",
+        "type": "file",
+        "md5": "01099141db40494377f3cbc1b3121dc1"
+    },
+    {
+        "path": "/media/posts/7/responsive/rublev-xs.jpg",
+        "type": "file",
+        "md5": "7cccbd10bfba740ac9042757639fb8ae"
+    },
+    {
+        "path": "/media/posts/7/rublev.jpg",
+        "type": "file",
+        "md5": "8648a1a63238c508577c6aba823d339f"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -1102,7 +1457,7 @@
     {
         "path": "/personalidades/index.html",
         "type": "file",
-        "md5": "bf3442cd4090436e32c82f32443580f8"
+        "md5": "7a6f89de2c73861ff0314f73b1afa6d1"
     },
     {
         "path": "placeres-habitos-adicciones-y-los-5-m-del-tantra",
@@ -1112,7 +1467,7 @@
     {
         "path": "/placeres-habitos-adicciones-y-los-5-m-del-tantra/index.html",
         "type": "file",
-        "md5": "80959139cd0f1e361edc579ddc7c3e91"
+        "md5": "b6dffcdb87729c46dc0f7844d93be6ad"
     },
     {
         "path": "por-que-esta-maldad-esta-encima",
@@ -1122,7 +1477,7 @@
     {
         "path": "/por-que-esta-maldad-esta-encima/index.html",
         "type": "file",
-        "md5": "688fc6479d569c5ca4662103e991ba65"
+        "md5": "922626fcda61497e72fa6abe0c31470c"
     },
     {
         "path": "psorax-revisitado",
@@ -1132,7 +1487,7 @@
     {
         "path": "/psorax-revisitado/index.html",
         "type": "file",
-        "md5": "4fb25d20170b92410d0ff9bf8084ea60"
+        "md5": "2d5363be2679e5a3ec61758c27f11728"
     },
     {
         "path": "recreando",
@@ -1142,7 +1497,7 @@
     {
         "path": "/recreando/index.html",
         "type": "file",
-        "md5": "6ad9372216462b8e6a149de772680698"
+        "md5": "7186a1ccec74135e39d237fb8be0a785"
     },
     {
         "path": "robots.txt",
@@ -1157,7 +1512,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "e13a879e86524137f08ca3723251a047"
+        "md5": "4c1f2726103a4c6015969616865edab3"
     },
     {
         "path": "sitemap.xsl",
@@ -1182,7 +1537,7 @@
     {
         "path": "/tantra-de-la-luz-y-la-oscuridad/index.html",
         "type": "file",
-        "md5": "9f815ba5825b242529b4b84a9b5e88d8"
+        "md5": "10af7ca6963061fa27de286313c3d080"
     },
     {
         "path": "tantra-universal",
@@ -1192,7 +1547,7 @@
     {
         "path": "/tantra-universal/index.html",
         "type": "file",
-        "md5": "0ced474fc8e2535b41d67f7ff3dc6273"
+        "md5": "40c17eab770efa93b51d997e539d26c2"
     },
     {
         "path": "todos-nosotros",
@@ -1202,7 +1557,7 @@
     {
         "path": "/todos-nosotros/index.html",
         "type": "file",
-        "md5": "5a9f4c574bbf99c5c98a4b79f1c37034"
+        "md5": "e61caa7ab3de1836e98603193b8a5cfd"
     },
     {
         "path": "un-puente-al-infinito",
@@ -1212,7 +1567,7 @@
     {
         "path": "/un-puente-al-infinito/index.html",
         "type": "file",
-        "md5": "fe95b5446479902f07ef8cae0ff79301"
+        "md5": "ad2b694081e87692b494146bbb1af827"
     },
     {
         "path": "un-requiem",
@@ -1222,7 +1577,7 @@
     {
         "path": "/un-requiem/index.html",
         "type": "file",
-        "md5": "73c8a9295325c5f59a81f684a26dee54"
+        "md5": "3a2e0e9d7e3303bdfdeec74c9c59ab7d"
     },
     {
         "path": "un-saludo",
@@ -1232,17 +1587,7 @@
     {
         "path": "/un-saludo/index.html",
         "type": "file",
-        "md5": "3bff6e1d472ff4c392e818b3989a2e5a"
-    },
-    {
-        "path": "una-construccion-con-el-adobe-y-el-bahareque",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/una-construccion-con-el-adobe-y-el-bahareque/index.html",
-        "type": "file",
-        "md5": "b572b9327b24598407c957a59ef5f9a5"
+        "md5": "47a606eaf4213c077f33723758b0d60f"
     },
     {
         "path": "una-fotografia-sin-marco",
@@ -1252,7 +1597,7 @@
     {
         "path": "/una-fotografia-sin-marco/index.html",
         "type": "file",
-        "md5": "fa279c221aab0b81355e830dafbbe006"
+        "md5": "0418e8824d1d2f1d053189e6b154b24e"
     },
     {
         "path": "williamquetzalorg",
@@ -1262,6 +1607,6 @@
     {
         "path": "/williamquetzalorg/index.html",
         "type": "file",
-        "md5": "2c1bb98851ad38386c38988269f6accb"
+        "md5": "4a7c4ed525d659ce189ec101938cc131"
     }
 ]
