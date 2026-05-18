@@ -82,7 +82,7 @@
     {
         "path": "/authors/willliam-enckhausen/index.html",
         "type": "file",
-        "md5": "ad96adf610a5eb53f4b1f01dac56e615"
+        "md5": "4c86017e23b0d5563487ae4440e3ad7f"
     },
     {
         "path": "contactar-suscribir",
@@ -112,7 +112,7 @@
     {
         "path": "/de-quetzalcoatl-a-casanova/index.html",
         "type": "file",
-        "md5": "9f14dbe5a1b3349e34d141705aad729f"
+        "md5": "719c35e1f9960cf0b8d32f2a6ead7173"
     },
     {
         "path": "dogma-disonancia-y-disenso",
@@ -132,7 +132,7 @@
     {
         "path": "/el-cactus-divino/index.html",
         "type": "file",
-        "md5": "85867a0c82c721fccc22d11012907ffa"
+        "md5": "cffab511292e47fc2e27f40e45b8d7fe"
     },
     {
         "path": "el-camino",
@@ -202,7 +202,7 @@
     {
         "path": "/el-punto-de-quiebre-y-los-poseidos/index.html",
         "type": "file",
-        "md5": "dd6054889aa2df332b2e157ae82e930a"
+        "md5": "2c7211ebc014356025f9cd9776e9614a"
     },
     {
         "path": "el-tantra-del-arbol",
@@ -232,7 +232,7 @@
     {
         "path": "/el-vuelo-del-quetzal/index.html",
         "type": "file",
-        "md5": "3a6fd6a7f4d2f4f6be03c1dc6daed94f"
+        "md5": "3f8b2ef7d6fd2426028e045accbb9492"
     },
     {
         "path": "entre-dos-diablos",
@@ -247,12 +247,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "ee54ada5072b2710e57d67f8c36b8bdc"
+        "md5": "701d08f4401b7d25d7007c9012982d7d"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "7e1052a0a74e632a15865b86cded97dd"
+        "md5": "9702aaa9ededdcc5c1ef2f5313dfe6e7"
     },
     {
         "path": "forma-y-sin-forma",
@@ -282,12 +282,12 @@
     {
         "path": "/hitler-killer-y-los-adoradores-del-lagarto/index.html",
         "type": "file",
-        "md5": "3ff802520c1e91264d9e877cbb6b98ee"
+        "md5": "831365966e824beb17a5bb85b5509767"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "9278c1cacc25bc13c877795d13de4914"
+        "md5": "50c19df05ddccba0ff8911684274c094"
     },
     {
         "path": "la-alegria-y-el-trauma",
@@ -347,7 +347,7 @@
     {
         "path": "/la-pseudacultura-elite/index.html",
         "type": "file",
-        "md5": "a01f11266cf0b65a653c0b23beb03386"
+        "md5": "f11a1812d332730e559377d3a5888c2a"
     },
     {
         "path": "la-red",
@@ -377,7 +377,7 @@
     {
         "path": "/la-revolucion-indigena/index.html",
         "type": "file",
-        "md5": "eb8228b4bf7863bda57c558a075024c9"
+        "md5": "99add5eb639d1f6fd5bd34344916c64b"
     },
     {
         "path": "la-sombra-del-guru",
@@ -1547,7 +1547,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "2551da84d18da8c76d7f70c8ea1b54b1"
+        "md5": "26c5092868613b623bb9e1533dcd1eeb"
     },
     {
         "path": "sitemap.xsl",
@@ -1582,7 +1582,7 @@
     {
         "path": "/tantra-universal/index.html",
         "type": "file",
-        "md5": "b05ad6156a37ab0db95fe8430d873e82"
+        "md5": "6c66bf87f35b71ddf8522c53f69cc0fe"
     },
     {
         "path": "todos-nosotros",
@@ -1602,7 +1602,7 @@
     {
         "path": "/un-puente-al-infinito/index.html",
         "type": "file",
-        "md5": "a33f937e10fe203458d9d53d034e719c"
+        "md5": "0a5a11524014a8918c5ae23a2716b0d9"
     },
     {
         "path": "un-requiem",
@@ -1633,15 +1633,5 @@
         "path": "/una-fotografia-sin-marco/index.html",
         "type": "file",
         "md5": "337879bdf9136e4fbe2073d3abc7ff61"
-    },
-    {
-        "path": "williamquetzalorg",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/williamquetzalorg/index.html",
-        "type": "file",
-        "md5": "8eee1e3143d932ec7585ba0ff2fcff32"
     }
 ]
