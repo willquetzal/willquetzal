@@ -172,7 +172,7 @@
     {
         "path": "/authors/william-enckhausen/index.html",
         "type": "file",
-        "md5": "0c01d99953217e94c720d08b0b4e3f77"
+        "md5": "6b98fc6f84191294d1674f6ea097dbdc"
     },
     {
         "path": "collective-evolution",
@@ -237,12 +237,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "56cdb9bc34a081072d8084f4b99aff8f"
+        "md5": "094bd0f7336031bc6d583c7f776ce088"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "f66a2e3c8070c099dbfc6d8c7dc237eb"
+        "md5": "8973fa2c5768c62069b0adbb5ed454fd"
     },
     {
         "path": "form-and-formless",
@@ -282,12 +282,12 @@
     {
         "path": "/hitler-killer-and-the-lizard-worshippers/index.html",
         "type": "file",
-        "md5": "cb31c82de0afa024558716e09d747cd8"
+        "md5": "eff710beebb223f6574baf83096fe548"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "96bb411282d71fb785c903f7a2166ae4"
+        "md5": "2d94eceee8e1c21e46375311db2aeb4d"
     },
     {
         "path": "joy-and-trauma",
@@ -1485,9 +1485,19 @@
         "md5": "5956805497db17c07ef0dc96318b3797"
     },
     {
+        "path": "site-domain-updated",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/site-domain-updated/index.html",
+        "type": "file",
+        "md5": "af05d5d7140daad6a35595c8e8140f55"
+    },
+    {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "f72e523da1161c9f1867be5683289152"
+        "md5": "342ed89ada485c1ab00e9420fdb4309c"
     },
     {
         "path": "sitemap.xsl",

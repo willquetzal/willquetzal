@@ -82,7 +82,7 @@
     {
         "path": "/authors/willliam-enckhausen/index.html",
         "type": "file",
-        "md5": "4c86017e23b0d5563487ae4440e3ad7f"
+        "md5": "3624dffb9638636e333a9179f1578cae"
     },
     {
         "path": "contactar-suscribir",
@@ -247,12 +247,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "701d08f4401b7d25d7007c9012982d7d"
+        "md5": "5b6ae2cad348bac7434b94413297a05b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "9702aaa9ededdcc5c1ef2f5313dfe6e7"
+        "md5": "643b3643b53b23f1e73b495f00f7e70a"
     },
     {
         "path": "forma-y-sin-forma",
@@ -282,12 +282,12 @@
     {
         "path": "/hitler-killer-y-los-adoradores-del-lagarto/index.html",
         "type": "file",
-        "md5": "da8f14e5ff6e203fce78df51e1b74071"
+        "md5": "beac65042b42a40365755e237c8fc173"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "50c19df05ddccba0ff8911684274c094"
+        "md5": "a8441807ec317cc3af829db503c1d5a5"
     },
     {
         "path": "la-alegria-y-el-trauma",
@@ -1547,12 +1547,22 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "26c5092868613b623bb9e1533dcd1eeb"
+        "md5": "0935552b2029561f4c7f5b21d7cb42e5"
     },
     {
         "path": "sitemap.xsl",
         "type": "file",
         "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "sitio-trasladado",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sitio-trasladado/index.html",
+        "type": "file",
+        "md5": "f74b9b9ed9f942eee736553e483b7fb6"
     },
     {
         "path": "tags",

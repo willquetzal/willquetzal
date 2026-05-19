@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://williamenck.art/es/sitio-trasladado/",
+            "url": "https://williamenck.art/es/sitio-trasladado/",
+            "title": "Sitio Trasladado",
+            "summary": "Este sitio ha estado alojado en mi servidor de datos en https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/es. En lugar de tener esta dirección tan larga e impersonal, el blog ahora estará ubicado en williamenck.art. Es más fácil de recordar y los enlaces compartidos son más personalizados, en lugar de una&hellip;",
+            "content_html": "<p>Este sitio ha estado alojado en mi servidor de datos en <a href=\"https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/es\">https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/es</a>. En lugar de tener esta dirección tan larga e impersonal, el blog ahora estará ubicado en <a href=\"https://williamenck.art/es\">williamenck.art</a>. Es más fácil de recordar y los enlaces compartidos son más personalizados, en lugar de una larga cadena de números y letras.</p>",
+            "author": {
+                "name": "William Enckhausen"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-19T05:14:29-06:00",
+            "date_modified": "2026-05-19T05:14:29-06:00"
+        },
+        {
             "id": "https://williamenck.art/es/hitler-killer-y-los-adoradores-del-lagarto/",
             "url": "https://williamenck.art/es/hitler-killer-y-los-adoradores-del-lagarto/",
             "title": "Hitler, &quot;Killer,&quot; Y Los Adoradores Del Lagarto",
@@ -136,20 +150,6 @@
             ],
             "date_published": "2025-03-12T15:18:55-06:00",
             "date_modified": "2026-05-17T14:37:32-06:00"
-        },
-        {
-            "id": "https://williamenck.art/es/recreando/",
-            "url": "https://williamenck.art/es/recreando/",
-            "title": "Recreando",
-            "summary": "Por innumerables vidas mis ojos se vuelven hacia ti rodando hacia arriba, hacia adentro, en el ojo primordial, Escudriñando estas vidas y muertes en busca de la libertad. Perdido en la corona del espíritu, olvidando el mundo y el yo, Tu dicha sin forma y&hellip;",
-            "content_html": "<section class=\"page__content\">\n<p>Por innumerables vidas mis ojos se vuelven hacia ti rodando hacia arriba, hacia adentro, en el ojo primordial, Escudriñando estas vidas y muertes en busca de la libertad. Perdido en la corona del espíritu, olvidando el mundo y el yo, Tu dicha sin forma y gentil Om liberan el néctar de la corona del espíritu me inundan con la intoxicación de los dioses.</p>\n<p>Llamándome a casa, esta pequeña mente se vuelve vasta, volando hacia el infinito silencioso más allá incluso de OM. Abro los ojos y aún te veo en todas partes. OM llena el espacio, se convierte en pulsación, mueve lo visible y lo invisible y se instala en la forma y vida sagrada.</p>\n<p>Me muestras pero no me liberas. ¿Es esta la razón para estar aquí, para ver cómo te esfuerzas detrás de todos los ojos: reptiles, mamíferos humanos. Deseando, sufriendo, luchando por la libertad buscando y recordándote a ti mismo?</p>\n<p>Perdóname por no verte antes, tratando de escapar de mi aislamiento, buscando la libertad más allá de tu creación, tratándola como a una nada esencial, un accidente para ser conquistado, trascendido, superado; para poner fin al sufrimiento, sin comprender que tu creación conspira con fe hacia tu tranquila esencia.</p>\n<p>Silencioso, esperas a que estemos en silencio, aprendiendo a no hacer nada mientras haces todo. Me dejas quieto y tranquilo en medio de tu tormenta, madurando en propósito y presencia, confiando en mí como guardián de tu ser, libre para ser una persona y cuidar a otras personas.</p>\n<p>Dentro de tus actos de recreación, Con infinitos tonos de color y sonido, Me encantas a través de los ojos de ella y su brillo. Reflejando la luz de tu ojo eterno entran en mi mirada y se convierten en mi vista. Nos haces uno en entrega eterna: recrear, procreando a otro ser replicamos Tu imagen interminable y en movimiento.</p>\n<p><strong>Comentarios</strong></p>\n</section>",
-            "author": {
-                "name": "William Enckhausen"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-03-12T15:18:13-06:00",
-            "date_modified": "2026-05-17T14:37:54-06:00"
         }
     ]
 }
